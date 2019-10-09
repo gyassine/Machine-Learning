@@ -1,0 +1,3 @@
+https://www.superdatascience.com/blogs/the-ultimate-guide-to-artificial-neural-networks-ann
+https://www.superdatascience.com/blogs/the-ultimate-guide-to-convolutional-neural-networks-cnn/
+https://www.superdatascience.com/blogs/the-ultimate-guide-to-recurrent-neural-networks-rnn/

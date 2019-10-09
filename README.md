@@ -48,7 +48,7 @@ Actual version : 2.0
 
 
 ## Acknowledgments :thumbsup:
-* Inspired by /play ohmy :
+* Inspired by :
   - [x] <https://www.udemy.com/introduction-au-machine-learning> _(IML)_ :fr: (Arborescence limitée)
   - [x] <https://www.udemy.com/data-science-machine-learning-et-python> _(DSMLP)_ :fr: (Quelques notes)
   - [ ] <https://www.udemy.com/le-deep-learning-de-a-a-z> _(DLAZ)_ :fr: (La `Partie 8 - Deep Learning` partiellement)
@@ -57,7 +57,34 @@ Actual version : 2.0
 * Good links :
   - <https://github.com/donnemartin/data-science-ipython-notebooks>
   - <https://medium.com/activewizards-machine-learning-company/top-20-python-libraries-for-data-science-in-2018-2ae7d1db8049>
+  - [MindMap sur Machine Learning](https://www.mindmeister.com/fr/1120200828/machine-learning?fullscreen=1)
+  - [Cours Cnam : Apprentissage, réseaux de neurones et modèles graphiques](http://cedric.cnam.fr/vertigo/Cours/ml2/preambule.html)
+  - [Gradient Descent Algorithm : Explications et Implémentation en Python](https://mrmint.fr/gradient-descent-algorithm)
+* Ressources:
+  - [2015_Book_EfficientLearningMachines.pdf](https://oapen.org/search?identifier=1001824)
+  - Most of Cheat-sheet from [here](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 
+## Tutos-Liens Stats/Python :snake:
+* Stats :
+  -[StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR)
+  -[Régression linéaire simple : quand les hypothèses ne sont pas satisfaites](https://statistique-et-logiciel-r.com/regression-lineaire-simple-quand-les-hypotheses-ne-sont-pas-satisfaites/)
+  -[Khan Academy](https://fr.khanacademy.org/mission/probability)
+  -[Evaluating a Linear Regression Model](https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/)
+  -[Assumptions of Linear Regression](https://www.statisticssolutions.com/assumptions-of-linear-regression/)
+  -[Assumptions of Linear Regression with Python](http://www.insightsbot.com/blog/HeGop/assumptions-of-linear-regression-with-python)
+  -[Linear Regression](https://pythonfordatascience.org/linear-regression-python/#diagnostics)
+  -[Linear Regression 101 (Part 3 - Assumptions & Evaluation)
+](https://dziganto.github.io/data%20science/linear%20regression/machine%20learning/python/Linear-Regression-101-Assumptions-and-Evaluation/)
+
+* Python :
+  -[Python pour le calcul scientifique/Statistiques](https://fr.wikibooks.org/wiki/Python_pour_le_calcul_scientifique/Statistiques)
+  -[Bonnes pratiques et astuces Python](https://larlet.fr/david/biologeek/archives/20080511-bonnes-pratiques-et-astuces-python/)
+  -[Structurer votre projet](https://python-guide-pt-br.readthedocs.io/fr/latest/writing/structure.html)
+  -[Apprenez à programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
+  -[]()
+  
+* Formations :
+  - https://makina-corpus.com/formations/python-scientifique
 ## License :scroll:
-The content of this project itself has been fully written by me, but was presented inside theses videos. 
-Dataset was provided also by them.
+The content of this project itself has been sometimes written or sometimes commented by me, but was presented inside theses videos. 
+Datasets were provided also by them. They can be found on Kaggle too.
