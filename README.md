@@ -66,22 +66,22 @@ Actual version : 2.0
 
 ## Tutos-Liens Stats/Python :snake:
 * Stats :
-  -[StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR)
-  -[Régression linéaire simple : quand les hypothèses ne sont pas satisfaites](https://statistique-et-logiciel-r.com/regression-lineaire-simple-quand-les-hypotheses-ne-sont-pas-satisfaites/)
-  -[Khan Academy](https://fr.khanacademy.org/mission/probability)
-  -[Evaluating a Linear Regression Model](https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/)
-  -[Assumptions of Linear Regression](https://www.statisticssolutions.com/assumptions-of-linear-regression/)
-  -[Assumptions of Linear Regression with Python](http://www.insightsbot.com/blog/HeGop/assumptions-of-linear-regression-with-python)
-  -[Linear Regression](https://pythonfordatascience.org/linear-regression-python/#diagnostics)
-  -[Linear Regression 101 (Part 3 - Assumptions & Evaluation)
+  - [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR)
+  - [Régression linéaire simple : quand les hypothèses ne sont pas satisfaites](https://statistique-et-logiciel-r.com/regression-lineaire-simple-quand-les-hypotheses-ne-sont-pas-satisfaites/)
+  - [Khan Academy](https://fr.khanacademy.org/mission/probability)
+  - [Evaluating a Linear Regression Model](https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/)
+  - [Assumptions of Linear Regression](https://www.statisticssolutions.com/assumptions-of-linear-regression/)
+  - [Assumptions of Linear Regression with Python](http://www.insightsbot.com/blog/HeGop/assumptions-of-linear-regression-with-python)
+  - [Linear Regression](https://pythonfordatascience.org/linear-regression-python/#diagnostics)
+  - [Linear Regression 101 (Part 3 - Assumptions & Evaluation)
 ](https://dziganto.github.io/data%20science/linear%20regression/machine%20learning/python/Linear-Regression-101-Assumptions-and-Evaluation/)
 
 * Python :
-  -[Python pour le calcul scientifique/Statistiques](https://fr.wikibooks.org/wiki/Python_pour_le_calcul_scientifique/Statistiques)
-  -[Bonnes pratiques et astuces Python](https://larlet.fr/david/biologeek/archives/20080511-bonnes-pratiques-et-astuces-python/)
-  -[Structurer votre projet](https://python-guide-pt-br.readthedocs.io/fr/latest/writing/structure.html)
-  -[Apprenez à programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
-  -[]()
+  - [Python pour le calcul scientifique/Statistiques](https://fr.wikibooks.org/wiki/Python_pour_le_calcul_scientifique/Statistiques)
+  - [Bonnes pratiques et astuces Python](https://larlet.fr/david/biologeek/archives/20080511-bonnes-pratiques-et-astuces-python/)
+  - [Structurer votre projet](https://python-guide-pt-br.readthedocs.io/fr/latest/writing/structure.html)
+  - [Apprenez à programmer en Python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python)
+  - []()
   
 * Formations :
   - https://makina-corpus.com/formations/python-scientifique
