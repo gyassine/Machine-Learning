@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=fSytzGwwBVw&t=3s : Machine Learning Fundamentals: Cross Validation
+
+https://medium.com/usf-msds/choosing-the-right-metric-for-evaluating-machine-learning-models-part-2-86d5649a5428 : Choosing the Right Metric for Evaluating Machine Learning Models
