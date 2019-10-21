@@ -14,10 +14,13 @@ You need :
 Read and Run :sunglasses:
 
 ### Release History :notebook:
-Actual version : 2.0
+Actual version : 3.0
 
-*  **V3.0** - Ajout de code & info de _DLAZ_ : _Le Deep Learning de A à Z (Udemy)_ dans la `Partie 8 - Deep Learning`.
+*  **V4.0** - Ajout de code & info de _DLAZ_ : _Le Deep Learning de A à Z (Udemy)_ dans la `Partie 8 - Deep Learning`.
 :star::star::star::star::star:
+
+*  **V3.0** - Ajout de code & info de _TFTS_ : _Sequences, Time Series and Prediction (Coursera)_ dans la `Partie 12 - Time Series`.
+:star::star::star::star:
 
 *  **V2.0** - Ajout d'infos et d'astuces tiré de _DSMLP_ : _Data science : Machine Learning et Python (Udemy)_.
 :star:
@@ -54,17 +57,20 @@ Actual version : 2.0
   - [ ] <https://www.udemy.com/le-deep-learning-de-a-a-z> _(DLAZ)_ :fr: (La `Partie 8 - Deep Learning` partiellement)
   - [ ] <https://www.udemy.com/machinelearning> _(MLAZ)_ :gb:/:us: (Arborescence complète)
   - [ ] <https://www.udemy.com/intelligence-artificielle-az> _(IAAZ)_ :fr: (La `Partie 11 - Intelligence Artificielle` en totalité)
+  - [ ] <https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction> _(TFTS)_ :en: (La `Partie 12 - Time Series`)
+
 * Good links :
   - <https://github.com/donnemartin/data-science-ipython-notebooks>
   - <https://medium.com/activewizards-machine-learning-company/top-20-python-libraries-for-data-science-in-2018-2ae7d1db8049>
   - [MindMap sur Machine Learning](https://www.mindmeister.com/fr/1120200828/machine-learning?fullscreen=1)
   - [Cours Cnam : Apprentissage, réseaux de neurones et modèles graphiques](http://cedric.cnam.fr/vertigo/Cours/ml2/preambule.html)
   - [Gradient Descent Algorithm : Explications et Implémentation en Python](https://mrmint.fr/gradient-descent-algorithm)
+
 * Ressources:
   - [2015_Book_EfficientLearningMachines.pdf](https://oapen.org/search?identifier=1001824)
   - Most of Cheat-sheet from [here](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 
-## Tutos-Liens Stats/Python :snake:
+## Tutos & Liens pour Stats/ML/Python :snake:
 * Stats :
   - [StatQuest](https://www.youtube.com/playlist?list=PLblh5JKOoLUIcdlgu78MnlATeyx4cEVeR)
   - [Régression linéaire simple : quand les hypothèses ne sont pas satisfaites](https://statistique-et-logiciel-r.com/regression-lineaire-simple-quand-les-hypotheses-ne-sont-pas-satisfaites/)
@@ -84,7 +90,7 @@ Actual version : 2.0
   - []()
   
 * Formations :
-  - https://makina-corpus.com/formations/python-scientifique
+  - <https://makina-corpus.com/formations/python-scientifique>
 ## License :scroll:
 The content of this project itself has been sometimes written or sometimes commented by me, but was presented inside theses videos. 
 Datasets were provided also by them. They can be found on Kaggle too.
