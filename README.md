@@ -69,6 +69,7 @@ Actual version : 3.0
 * Ressources:
   - [2015_Book_EfficientLearningMachines.pdf](https://oapen.org/search?identifier=1001824)
   - Most of Cheat-sheet from [here](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
+  - Veille technologique RNN (récupéré depuis http://nicolasmine.com/projects/)
 
 ## Tutos & Liens pour Stats/ML/Python :snake:
 * Stats :
